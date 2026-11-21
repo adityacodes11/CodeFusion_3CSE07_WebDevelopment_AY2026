@@ -1,0 +1,30 @@
+body{
+
+    min-height:100vh;
+    background:#eeeeff;
+    text-align:center;
+    padding-top:80px;
+}
+
+div{
+    display:block;
+}
+
+h1{
+    color:#276CF5;
+}
+
+h2{
+    color:#173F8F;
+}
+.box{
+    width:70%;
+    margin: auto auto;
+    border: 2px solid #6666c9;
+    border-radius:5px;
+    background:white;
+}
+
+body{
+    font-family:helvetica;
+}
